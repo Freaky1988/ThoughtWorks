@@ -1,0 +1,11 @@
+
+.tab{
+    height:auto;
+    width:300px;
+    background-color: #2D4054;
+    color: #F3F3F3;
+}
+.tab>ul>li{
+    list-style: none;
+    height:45px;
+}
